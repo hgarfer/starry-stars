@@ -1,0 +1,10 @@
+# CODEOWNERS file for the hgarfer/me repository
+# This file specifies the individuals responsible for code in this repository.
+# 
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Each line is a file pattern followed by one or more owners.
+# The last matching pattern has the most precedence.
+#
+# @hgarfer is the owner of everything in this repository
+* @hgarfer
