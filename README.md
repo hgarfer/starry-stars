@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `156`
+Total starred repositories: `157`
 ## Contents
 
   - [Assembly](#assembly)
@@ -47,34 +47,34 @@ Total starred repositories: `156`
 | ----- | ----- | :---: |----: |
 | [coreutils/coreutils](https://github.com/coreutils/coreutils) | Public mirror. Pull requests and Issues accepted   | GNU GPLv3 | ⭐️5242 |
 | [illumos/illumos-gate](https://github.com/illumos/illumos-gate) | An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate   | - | ⭐️1886 |
-| [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library   | ISC License | ⭐️21201 |
-| [raspberrypi/linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/   | - | ⭐️13057 |
-| [rvaiya/keyd](https://github.com/rvaiya/keyd) | A key remapping daemon for linux.   | MIT License | ⭐️5810 |
+| [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library   | ISC License | ⭐️21202 |
+| [raspberrypi/linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/   | - | ⭐️13061 |
+| [rvaiya/keyd](https://github.com/rvaiya/keyd) | A key remapping daemon for linux.   | MIT License | ⭐️5812 |
 | [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) | CPU-X is a Free software that gathers information on CPU, motherboard and more   | GNU GPLv3 | ⭐️2636 |
-| [torvalds/linux](https://github.com/torvalds/linux) | Linux kernel source tree   | - | ⭐️241516 |
-| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution.   | GNU GPLv3 | ⭐️78459 | 
+| [torvalds/linux](https://github.com/torvalds/linux) | Linux kernel source tree   | - | ⭐️241647 |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution.   | GNU GPLv3 | ⭐️78490 | 
 
 **[⬆ back to top](#contents)**
 ## C#
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [bitwarden/server](https://github.com/bitwarden/server) | Bitwarden infrastructure/backend (API, database, Docker, etc).   | - | ⭐️19715 |
+| [bitwarden/server](https://github.com/bitwarden/server) | Bitwarden infrastructure/backend (API, database, Docker, etc).   | - | ⭐️19738 |
 | [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) | Minecraft for hipsters (*archived*)  | MIT License | ⭐️2459 |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | GNU GPLv2 | ⭐️55304 |
-| [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games.   | - | ⭐️14252 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | GNU GPLv2 | ⭐️55359 |
+| [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games.   | - | ⭐️14258 |
 | [Readarr/Readarr](https://github.com/Readarr/Readarr) | Book Manager and Automation (Sonarr for Ebooks) (*archived*)  | GNU GPLv3 | ⭐️3477 | 
 
 **[⬆ back to top](#contents)**
 ## C++
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [deskflow/deskflow](https://github.com/deskflow/deskflow) | Share a single keyboard and mouse between multiple computers.   | GNU GPLv2 | ⭐️27781 |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++   | MIT License | ⭐️122480 |
-| [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine   | MIT License | ⭐️115028 |
-| [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | Distribute and run LLMs with a single file.   | - | ⭐️25483 |
+| [deskflow/deskflow](https://github.com/deskflow/deskflow) | Share a single keyboard and mouse between multiple computers.   | GNU GPLv2 | ⭐️27817 |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++   | MIT License | ⭐️122606 |
+| [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine   | MIT License | ⭐️115085 |
+| [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | Distribute and run LLMs with a single file.   | - | ⭐️25487 |
 | [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.   | - | ⭐️16395 |
 | [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) | Doom 3 GPL source release   | GNU GPLv3 | ⭐️4628 |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible   | GNU GPLv3 | ⭐️8760 | 
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible   | GNU GPLv3 | ⭐️8775 | 
 
 **[⬆ back to top](#contents)**
 ## CSS
@@ -92,19 +92,19 @@ Total starred repositories: `156`
 ## Dart
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything.   | GNU AGPLv3 | ⭐️28109 | 
+| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything.   | GNU AGPLv3 | ⭐️28128 | 
 
 **[⬆ back to top](#contents)**
 ## Dockerfile
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) | A Dockerfile for the ArchiveTeam Warrior   | - | ⭐️447 | 
+| [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) | A Dockerfile for the ArchiveTeam Warrior   | - | ⭐️448 | 
 
 **[⬆ back to top](#contents)**
 ## Emacs Lisp
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [doomemacs/core](https://github.com/doomemacs/core) | An Emacs framework for the stubborn martian hacker   | MIT License | ⭐️22544 |
+| [doomemacs/core](https://github.com/doomemacs/core) | An Emacs framework for the stubborn martian hacker   | MIT License | ⭐️22545 |
 | [mihaiolteanu/mugur](https://github.com/mihaiolteanu/mugur) | Configurator for QMK compatible keyboards   | GNU GPLv3 | ⭐️200 | 
 
 **[⬆ back to top](#contents)**
@@ -113,9 +113,9 @@ Total starred repositories: `156`
 | ----- | ----- | :---: |----: |
 | [alpyxn/aeterna](https://github.com/alpyxn/aeterna) | Aeterna: A Lightweight, Self-Hosted Dead Man's Switch   | GNU GPLv3 | ⭐️278 |
 | [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) | Apollo backend server (*archived*)  | - | ⭐️3656 |
-| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like.   | Modified BSD License | ⭐️59405 |
+| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like.   | Modified BSD License | ⭐️59413 |
 | [fnproject/fn](https://github.com/fnproject/fn) | The container native, cloud agnostic serverless platform.   | Apache License 2.0 | ⭐️5942 |
-| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands   | MIT License | ⭐️80971 |
+| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands   | MIT License | ⭐️81006 |
 | [jesusprubio/up](https://github.com/jesusprubio/up) | 📶 Troubleshoot problems with your Internet connection   | MIT License | ⭐️471 |
 | [rverst/stargazer](https://github.com/rverst/stargazer) | Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list.   | MIT License | ⭐️68 |
 | [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) | sshfs docker volume plugin (*archived*)  | MIT License | ⭐️600 | 
@@ -145,27 +145,27 @@ Total starred repositories: `156`
 ## Java
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [AI-Unified-Process/marketplace](https://github.com/AI-Unified-Process/marketplace) |    | Apache License 2.0 | ⭐️105 |
+| [AI-Unified-Process/marketplace](https://github.com/AI-Unified-Process/marketplace) |    | Apache License 2.0 | ⭐️106 |
 | [apache/groovy](https://github.com/apache/groovy) | Apache Groovy: A powerful multi-faceted programming language for the JVM platform   | Apache License 2.0 | ⭐️5456 |
-| [apache/pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system   | Apache License 2.0 | ⭐️15302 |
+| [apache/pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system   | Apache License 2.0 | ⭐️15300 |
 | [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) | =Please be aware that Concurnas is no longer in active development = Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems   | MIT License | ⭐️207 |
 | [DanielLiu1123/grpc-starter](https://github.com/DanielLiu1123/grpc-starter) | Out-of-the-box, highly extensible Spring Boot starters for the cutting-edge gRPC ecosystem and modern Java — more integration, less abstraction.   | MIT License | ⭐️94 |
 | [eclipse-collections/eclipse-collections](https://github.com/eclipse-collections/eclipse-collections) | Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.   | - | ⭐️2643 |
 | [gperfutils/gprof](https://github.com/gperfutils/gprof) | GProf - The profiling module for Groovy   | Apache License 2.0 | ⭐️34 |
 | [groovy/groovy-core](https://github.com/groovy/groovy-core) | former home of the groovy programming language, moved to https://github.com/apache/groovy   | Apache License 2.0 | ⭐️1484 |
 | [j-tim/spring-io-barcelona-2026-what-s-new-in-spring-kafka-4](https://github.com/j-tim/spring-io-barcelona-2026-what-s-new-in-spring-kafka-4) | Example codebase for my talk "What's new in Spring for Apache Kafka 4" at Spring I/O 2026 in Barcelona    | - | ⭐️9 |
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Jenkins automation server   | MIT License | ⭐️26394 |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Jenkins automation server   | MIT License | ⭐️26407 |
 | [jerolba/jfleet](https://github.com/jerolba/jfleet) | JFleet persist to database large collections of Java POJOs using alternate persistence methods from JDBC   | Apache License 2.0 | ⭐️50 |
-| [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA & IntelliJ Platform   | - | ⭐️20419 |
-| [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) | A complete 3-D game development suite written in Java.   | Modified BSD License | ⭐️4278 |
+| [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA & IntelliJ Platform   | - | ⭐️20421 |
+| [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) | A complete 3-D game development suite written in Java.   | Modified BSD License | ⭐️4280 |
 | [kolorobot/spring-mvc-quickstart-archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype) | The project is a Maven archetype for Spring MVC web application.   | - | ⭐️1043 |
 | [konsoletyper/teavm](https://github.com/konsoletyper/teavm) | Compiles Java bytecode to JavaScript, WebAssembly and C   | Apache License 2.0 | ⭐️3078 |
-| [kusoroadeolu/Clique](https://github.com/kusoroadeolu/Clique) | A dependency free and extensible Java library for styling and beautifying terminal output   | Apache License 2.0 | ⭐️171 |
-| [libgdx/libgdx](https://github.com/libgdx/libgdx) | Desktop/Android/HTML5/iOS Java game development framework   | Apache License 2.0 | ⭐️25264 |
+| [kusoroadeolu/Clique](https://github.com/kusoroadeolu/Clique) | A dependency free and extensible Java library for styling and beautifying terminal output   | Apache License 2.0 | ⭐️174 |
+| [libgdx/libgdx](https://github.com/libgdx/libgdx) | Desktop/Android/HTML5/iOS Java game development framework   | Apache License 2.0 | ⭐️25270 |
 | [liferay/liferay-portal](https://github.com/liferay/liferay-portal) |    | - | ⭐️2260 |
 | [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) | Real-Time Strategy game 3D engine coded in pure java   | MIT License | ⭐️1506 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | JDK main-line development https://openjdk.org/projects/jdk   | GNU GPLv2 | ⭐️23180 |
-| [oracle/graal](https://github.com/oracle/graal) | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀   | - | ⭐️21651 |
+| [openjdk/jdk](https://github.com/openjdk/jdk) | JDK main-line development https://openjdk.org/projects/jdk   | GNU GPLv2 | ⭐️23182 |
+| [oracle/graal](https://github.com/oracle/graal) | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀   | - | ⭐️21652 |
 | [SpencerPark/IJava](https://github.com/SpencerPark/IJava) | A Jupyter kernel for executing Java code.   | MIT License | ⭐️1185 |
 | [update4j/update4j](https://github.com/update4j/update4j) | Create your own auto-update framework (*archived*)  | Apache License 2.0 | ⭐️813 | 
 
@@ -173,16 +173,16 @@ Total starred repositories: `156`
 ## JavaScript
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [abdomk1998/awesome-digital-escape-tools](https://github.com/abdomk1998/awesome-digital-escape-tools) | A curated, auto-generated list of privacy tools and open-source alternatives featured on digitalescapetools.com   | MIT License | ⭐️25 |
+| [abdomk1998/awesome-digital-escape-tools](https://github.com/abdomk1998/awesome-digital-escape-tools) | A curated, auto-generated list of privacy tools and open-source alternatives featured on digitalescapetools.com   | MIT License | ⭐️26 |
 | [alabs/15mcc](https://github.com/alabs/15mcc) | Repositorio de desarrollo del sitio web del proyecto 15M.cc   | GNU AGPLv3 | ⭐️11 |
-| [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites.   | MIT License | ⭐️57567 |
+| [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites.   | MIT License | ⭐️57572 |
 | [jquery/jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library   | MIT License | ⭐️59787 |
 | [jquery/jquery-ui](https://github.com/jquery/jquery-ui) | The official jQuery user interface library.   | - | ⭐️11328 |
 | [osoco/sublimetext-grails](https://github.com/osoco/sublimetext-grails) | Grails support for Sublime Text   | - | ⭐️74 |
 | [vinsol/fullcalendar_rails](https://github.com/vinsol/fullcalendar_rails) | Using FullCalendar jQuery plugin(http://arshaw.com/fullcalendar/) with Rails backend.  You can create, edit, delete, reschedule, resize events.    | - | ⭐️302 |
 | [willasm/obsidian-md-vsc](https://github.com/willasm/obsidian-md-vsc) |    | MIT License | ⭐️58 |
 | [yakworks/angle-grinder](https://github.com/yakworks/angle-grinder) | Legacy AngularJS and UI Components for any app   | - | ⭐️30 |
-| [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet   | Mozilla Public License 2.0 | ⭐️43726 | 
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet   | Mozilla Public License 2.0 | ⭐️43742 | 
 
 **[⬆ back to top](#contents)**
 ## Kotlin
@@ -195,64 +195,64 @@ Total starred repositories: `156`
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) | A community repository of common plugin specifications   | GNU GPLv3 | ⭐️1702 |
-| [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.   | GNU GPLv3 | ⭐️19281 | 
+| [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.   | GNU GPLv3 | ⭐️19282 | 
 
 **[⬆ back to top](#contents)**
 ## MDX
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [mistralai/workflows-starter-app](https://github.com/mistralai/workflows-starter-app) | Base template to register and invoke workflows   | MIT License | ⭐️31 |
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.   | MIT License | ⭐️174557 |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.   | MIT License | ⭐️174555 |
 | [vorillaz/devicons](https://github.com/vorillaz/devicons) | devicons - Crisp and clear logos & icons for developers.    | MIT License | ⭐️2757 | 
 
 **[⬆ back to top](#contents)**
 ## Makefile
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) | The easiest way to get started with PostgreSQL on the Mac   | - | ⭐️7755 | 
+| [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) | The easiest way to get started with PostgreSQL on the Mac   | - | ⭐️7756 | 
 
 **[⬆ back to top](#contents)**
 ## Markdown
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch.   | - | ⭐️535069 | 
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch.   | - | ⭐️535723 | 
 
 **[⬆ back to top](#contents)**
 ## Nix
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.   | - | ⭐️1007 | 
+| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.   | - | ⭐️1009 | 
 
 **[⬆ back to top](#contents)**
 ## PHP
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [cs50/codespace](https://github.com/cs50/codespace) |    | GNU GPLv3 | ⭐️186 |
-| [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) | Self-hosted collaborative plant management and tracking system for plant enthusiasts   | MIT License | ⭐️1594 |
+| [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web) | Self-hosted collaborative plant management and tracking system for plant enthusiasts   | MIT License | ⭐️1595 |
 | [Elgg/Elgg](https://github.com/Elgg/Elgg) | A social networking engine in PHP/MySQL   | - | ⭐️1680 |
-| [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework   | MIT License | ⭐️31114 | 
+| [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework   | MIT License | ⭐️31113 | 
 
 **[⬆ back to top](#contents)**
 ## Python
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [beetbox/beets](https://github.com/beetbox/beets) | music library manager and MusicBrainz tagger   | MIT License | ⭐️15483 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books   | Creative Commons Attribution 4.0 International | ⭐️393582 |
-| [getmoto/moto](https://github.com/getmoto/moto) | A library that allows you to easily mock out tests based on AWS infrastructure.   | Apache License 2.0 | ⭐️8597 |
-| [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) | Open source code for AlphaFold 2.   | Apache License 2.0 | ⭐️14770 |
-| [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) | One webpage for every book ever published!   | GNU AGPLv3 | ⭐️6586 |
+| [beetbox/beets](https://github.com/beetbox/beets) | music library manager and MusicBrainz tagger   | MIT License | ⭐️15491 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books   | Creative Commons Attribution 4.0 International | ⭐️393660 |
+| [getmoto/moto](https://github.com/getmoto/moto) | A library that allows you to easily mock out tests based on AWS infrastructure.   | Apache License 2.0 | ⭐️8598 |
+| [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) | Open source code for AlphaFold 2.   | Apache License 2.0 | ⭐️14772 |
+| [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) | One webpage for every book ever published!   | GNU AGPLv3 | ⭐️6593 |
 | [jshchnz/codemaxxing](https://github.com/jshchnz/codemaxxing) |    | MIT License | ⭐️191 |
-| [LaurieWired/InfiniteRadio](https://github.com/LaurieWired/InfiniteRadio) | Infinite Contextual Radio   | Apache License 2.0 | ⭐️701 |
+| [LaurieWired/InfiniteRadio](https://github.com/LaurieWired/InfiniteRadio) | Infinite Contextual Radio   | Apache License 2.0 | ⭐️702 |
 | [LIDR-academy/LIDR-car-salesman-agents](https://github.com/LIDR-academy/LIDR-car-salesman-agents) |    | MIT License | ⭐️90 |
-| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.    | GNU AGPLv3 | ⭐️84575 |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models   | GNU AGPLv3 | ⭐️27051 | 
+| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.    | GNU AGPLv3 | ⭐️84649 |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models   | GNU AGPLv3 | ⭐️27082 | 
 
 **[⬆ back to top](#contents)**
 ## Ruby
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [diaspora/diaspora](https://github.com/diaspora/diaspora) | A privacy-aware, distributed, open source social network.   | GNU AGPLv3 | ⭐️13656 |
-| [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com   | - | ⭐️24521 | 
+| [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com   | - | ⭐️24525 | 
 
 **[⬆ back to top](#contents)**
 ## Rust
@@ -261,73 +261,74 @@ Total starred repositories: `156`
 | [KiefStudioMA/ks-aur-scanner](https://github.com/KiefStudioMA/ks-aur-scanner) | A comprehensive security scanner for Arch Linux AUR packages that analyzes PKGBUILDs and install scripts for malicious patterns, suspicious behavior, and security vulnerabilities. Written in Rust for performance and safety.   | GNU GPLv3 | ⭐️82 |
 | [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) | Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.   | MIT License | ⭐️1956 |
 | [sigoden/window-switcher](https://github.com/sigoden/window-switcher) | Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.   | MIT License | ⭐️1063 |
-| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend.   | Apache License 2.0 | ⭐️109819 |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils   | MIT License | ⭐️23844 |
-| [withcoral/coral](https://github.com/withcoral/coral) | One SQL interface over APIs, files, and live sources — built for agents.   | Apache License 2.0 | ⭐️5009 | 
+| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend.   | Apache License 2.0 | ⭐️109861 |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils   | MIT License | ⭐️23850 |
+| [withcoral/coral](https://github.com/withcoral/coral) | One SQL interface over APIs, files, and live sources — built for agents.   | Apache License 2.0 | ⭐️5011 | 
 
 **[⬆ back to top](#contents)**
 ## Shell
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [byrdsandbytes/beatnik-pi](https://github.com/byrdsandbytes/beatnik-pi) | Open Source Multiroom Audio Streamer based on Raspberry Pi & Snapcast   | - | ⭐️470 |
+| [byrdsandbytes/beatnik-pi](https://github.com/byrdsandbytes/beatnik-pi) | Open Source Multiroom Audio Streamer based on Raspberry Pi & Snapcast   | - | ⭐️471 |
 | [Dark-Alex-17/dtools](https://github.com/Dark-Alex-17/dtools) | All-in-one CLI for your command line tasks: cloud management (AWS/GCP), databases, AI tools, plotting, system maintenance, and more.   | MIT License | ⭐️45 |
 | [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) | Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!   | MIT License | ⭐️1113 |
-| [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) |    | GNU AGPLv3 | ⭐️1692 |
+| [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) |    | GNU AGPLv3 | ⭐️1695 |
 | [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) | Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel   | GNU GPLv3 | ⭐️4559 |
 | [kirodubes/kiro-iso](https://github.com/kirodubes/kiro-iso) |    | GNU GPLv3 | ⭐️60 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works.   | MIT License | ⭐️265222 |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.   | MIT License | ⭐️188957 |
-| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements   | - | ⭐️60180 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works.   | MIT License | ⭐️265813 |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.   | MIT License | ⭐️188984 |
+| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements   | - | ⭐️60193 |
 | [rupa/z](https://github.com/rupa/z) | z - jump around   | Do What The F*ck You Want To Public License | ⭐️17037 |
-| [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) | Tmux Plugin Manager   | MIT License | ⭐️14972 | 
+| [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) | Tmux Plugin Manager   | MIT License | ⭐️14977 | 
 
 **[⬆ back to top](#contents)**
 ## Swift
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [CodyBontecou/health-md](https://github.com/CodyBontecou/health-md) | Source code of Health.md iOS app   | GNU AGPLv3 | ⭐️212 | 
+| [CodyBontecou/health-md](https://github.com/CodyBontecou/health-md) | Source code of Health.md iOS app   | GNU AGPLv3 | ⭐️214 | 
 
 **[⬆ back to top](#contents)**
 ## TypeScript
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent.   | MIT License | ⭐️192484 |
-| [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) | Clojure & ClojureScript Interactive Programming for VS Code   | - | ⭐️2079 |
-| [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) | State Management and Multiplayer Networking for Turn-Based Games   | MIT License | ⭐️12389 |
-| [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) | Task and time-tracking management with calendar integration for Obsidian   | MIT License | ⭐️2001 |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.   | Apache License 2.0 | ⭐️35400 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent.   | MIT License | ⭐️192972 |
+| [BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva) | Clojure & ClojureScript Interactive Programming for VS Code   | - | ⭐️2080 |
+| [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) | State Management and Multiplayer Networking for Turn-Based Games   | MIT License | ⭐️12392 |
+| [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) | Task and time-tracking management with calendar integration for Obsidian   | MIT License | ⭐️2004 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.   | Apache License 2.0 | ⭐️35433 |
 | [daledesilva/obsidian_ink](https://github.com/daledesilva/obsidian_ink) |    | - | ⭐️1343 |
 | [Doist/todoist-mcp](https://github.com/Doist/todoist-mcp) | A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.   | MIT License | ⭐️532 |
 | [eatcodeplay/obsidian-simple-table-math](https://github.com/eatcodeplay/obsidian-simple-table-math) | Do some math (sum, average, etc.) in your markdown tables.   | MIT License | ⭐️80 |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams   | MIT License | ⭐️128852 |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants.   | MIT License | ⭐️63529 |
-| [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.   | GNU AGPLv3 | ⭐️42943 |
-| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | GNU AGPLv3 | ⭐️109578 |
-| [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) | Materialize Todoist tasks in Obsidian notes   | MIT License | ⭐️1187 |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams   | MIT License | ⭐️128913 |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants.   | MIT License | ⭐️63671 |
+| [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.   | GNU AGPLv3 | ⭐️42959 |
+| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | GNU AGPLv3 | ⭐️109659 |
+| [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) | Materialize Todoist tasks in Obsidian notes   | MIT License | ⭐️1188 |
 | [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.   | Apache License 2.0 | ⭐️22433 |
 | [konfig-dev/konfig](https://github.com/konfig-dev/konfig) | SDK & API Docs Generator. Sunset as of December 2024   | MIT License | ⭐️1532 |
-| [medusajs/medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform for agents and developers   | MIT License | ⭐️35545 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.   | - | ⭐️199108 |
+| [medusajs/medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform for agents and developers   | MIT License | ⭐️35564 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.   | - | ⭐️199243 |
 | [okupter/kitforstartups](https://github.com/okupter/kitforstartups) | The Open Source SvelteKit SaaS boilerplate.   | MIT License | ⭐️731 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞    | - | ⭐️384970 |
-| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.   | Apache License 2.0 | ⭐️107483 | 
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞    | - | ⭐️385050 |
+| [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) | Custom GeForce Now Client Named OpenNOW   | MIT License | ⭐️2242 |
+| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.   | Apache License 2.0 | ⭐️107542 | 
 
 **[⬆ back to top](#contents)**
 ## Unknown
 | Name  | Description  | License  | Stars  |
 | ----- | ----- | :---: |----: |
 | [apache/grails-geb](https://github.com/apache/grails-geb) | Geb Functional Testing for Grails® framework (*archived*)  | - | ⭐️12 |
-| [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | A curated list of amazingly awesome open-source sysadmin resources.   | - | ⭐️34804 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | - | ⭐️310276 |
+| [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | A curated list of amazingly awesome open-source sysadmin resources.   | - | ⭐️34812 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | - | ⭐️310496 |
 | [bagf/MarcLaidlaw-Epistle3](https://github.com/bagf/MarcLaidlaw-Epistle3) | Just being archived for posterity.   | - | ⭐️2 |
-| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | FFmpeg Assembly Language Lessons   | - | ⭐️12114 |
+| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | FFmpeg Assembly Language Lessons   | - | ⭐️12113 |
 | [grails/grails-spring-security-rest](https://github.com/grails/grails-spring-security-rest) | Grails plugin to implement token-based, RESTful authentication using Spring Security (*archived*)  | - | ⭐️203 |
 | [hasinhayder/essential-jquery-plugins](https://github.com/hasinhayder/essential-jquery-plugins) | This is a list of useful and handy jQuery Plugins, properly categorized and sorted :)   | - | ⭐️223 |
 | [hgarfer/dotfiles](https://github.com/hgarfer/dotfiles) |    | - | ⭐️1 |
 | [hgarfer/starry-stars](https://github.com/hgarfer/starry-stars) | My github starred repos   | - | ⭐️2 |
 | [jshchnz/codemaxxed](https://github.com/jshchnz/codemaxxed) |    | - | ⭐️307 |
-| [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) | Moved to https://github.com/nodejs/node (*archived*)  | - | ⭐️34292 |
+| [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) | Moved to https://github.com/nodejs/node (*archived*)  | - | ⭐️34291 |
 | [spmeesseman/vscode-taskexplorer](https://github.com/spmeesseman/vscode-taskexplorer) | Run and Manage Tasks for Visual Studio Code   | - | ⭐️142 |
-| [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) | 🧠 Cognitive load is what matters   | Creative Commons Attribution 4.0 International | ⭐️12461 | 
+| [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) | 🧠 Cognitive load is what matters   | Creative Commons Attribution 4.0 International | ⭐️12462 | 
 
 **[⬆ back to top](#contents)**
